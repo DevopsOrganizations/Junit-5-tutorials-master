@@ -9,61 +9,61 @@ Welcome to JUnit 5 Tutorial, a collection of sample applications to write Junit 
 The [junit5-maven-example] sample demonstrates the bare minimum configuration for getting started with JUnit Jupiter using the Maven build system.
 
 ## [2. Junit 5 with gradle configuration with an example](https://javabydeveloper.com/junit-5-with-gradle-configuration-with-an-example/)
-The [junit5-gradle-example] sample demonstrates the bare minimum configuration for getting started with JUnit Jupiter using the Gradle build system.
+The [junit5-gradle-example] sample Demonstrates the display custom names for the tests, built-in creating custom Display name generator.
 
 ## [3. Junit 5 Dispaly names for tests](https://javabydeveloper.com/junit-5-dispaly-names-for-tests/)
-The [junit5-displayNames-example] sample demonstrates the display custom names for the tests, built-in creating cutom Display name generator.
+The [junit5-displayNames-example] sample demonstrates the display custom names for the tests, built-in creating custom Display name generator.
 
 ## [4. Junit 5 test instance lifecycle with exampless](https://javabydeveloper.com/junit-5-test-instance-lifecycle-with-examples/)
-The [junit5-instance-lifecycle-example] sample demonstrates the instance lifecycle of junit 5 tests cases and the modes of test instance lifecycle.
+The [junit5-instance-lifecycle-example] sample demonstrates the instance lifecycle of junit 5 test cases and the modes of test instance lifecycle.
 
 ## [5. Junit 5 Assumptions class examples](https://javabydeveloper.com/junit-5-assumptions-examples/)
-The [junit5-assumptions-example] sample demonstrates the Junit 5 assumptions class assumeTrue()/assumeFalse() and assumeThat() methods.
+The [junit5-assumptions-example] sample demonstrates the  Junit 5 assumptions class assumeTrue()/assumeFalse() and assumeThat() methods.
 
 ## [6. Junit 5 Disable tests @Disabled examples](https://javabydeveloper.com/junit-5-disable-tests-disabled-examples/)
 The [junit5-disable-tests-example] sample demonstrates the how to disable tests using @Disabled annotation.
 
 ## [7. Junit 5 conditional test execution with examples](https://javabydeveloper.com/junit-5-conditional-test-execution-with-examples/)
-The [junit5-conditional-tests-example] sample demonstrates varous conditional tests supported by Junit 5 and creating custom condition.
+The [junit5-conditional-tests-example] sample demonstrates various conditional tests supported by Junit 5 and creating custom condition.
 
 ## [8. Junit 5 repeated tests with examples](https://javabydeveloper.com/junit-5-repeated-tests-with-examples/)
 The [junit5-repeated-tests-example] sample demonstrates repeating tests execution by the specified number of times and creating a composed annotation to dispaly names with repetition info.
 
 ## [9. Junit 5 timeouts – Fail if test not executed within time](https://javabydeveloper.com/junit-5-timeouts-fail-if-test-not-executed-within-time/)
-The [junit5-timeout-example] sample demonstrates junit 5 timeout tests, assertTimeout(), assertTimeoutPreemptively and configuring global tieouts
+The [junit5-timeout-example] sample demonstrates Junit 5 timeout tests using @Timeout, assertTimeout(), assertTimeoutPreemptively() and configuring global timeouts
 
 ## [10. Junit 5 test execution order with examples](https://javabydeveloper.com/junit-5-test-execution-order-with-examples/)
-The [junit5-test-order-example] sample demonstrates the junit 5 tests execution order, @MethodOrder, @Order annotations AlphanUmeric order and creating custom order.
+The [junit5-test-order-example] sample demonstrates Junit 5 tests execution order, @MethodOrder, @Order annotations AlphanUmeric order and creating custom order.
 
 ## [11. Junit 5 Parameterized Tests with examples](https://javabydeveloper.com/junit-5-parameterized-tests-with-examples/)
-The [junit5-parameterized-tests-example] sample demonstrates the various argument sources to run parameterized tests, ArgumentsAccessor, Argument Aggregatoin examples.
+The [junit5-parameterized-tests-example] sample demonstrates the various argument sources to run parameterized tests, ArgumentsAccessor, Argument Aggregation examples.
 
 ## [12. Junit 5 ConsoleLauncher examples](https://javabydeveloper.com/junit-5-consolelauncher-options-examples/)
 The [junit5-consolelauncher-example] sample demonstrates the ConsoleLauncher to run Junit jupitor tests with several options.
 
 ## [13. Junit 5 with allure reports example](https://javabydeveloper.com/junit-5-with-allure-reports-example/)
-The [junit5-allure-report-example] sample demonstrates the Junit 5, allure, maven configuration and generating allure reports.
+The [junit5-allure-report-example] sample demonstrates Junit 5, allure, maven configuration and generating allure reports.
 
 ## [14. Junit 5 dynamic tests @TestFactory with examples](https://javabydeveloper.com/junit-5-dynamic-tests-testfactory-with-examples/)
-The [junit5-dynamic-tests-example] sample demonstrates the Creating dynamic tests in junit 5 and odering and parallel execution of dynamic tests.
+The [junit5-dynamic-tests-example] sample demonstrates the creating dynamic tests in Junit 5 and ordering and parallel execution of dynamic tests.
 
 ## [15. Junit 5 nested tests with several examples](https://javabydeveloper.com/junit-5-nested-tests-with-several-examples/)
 The [junit5-nested-tests-example] sample demonstrates the creating nested tests, nested tests execution order and timeouts in nested tests.
 
 ## [16. Built-in and custom Junit 5 ParameterResolver examples](https://javabydeveloper.com/built-in-and-custom-junit-5-parameterresolver-examples/)
-The [junit5-dependency-test-example] sample demonstrates the dependency injection for test methods and cunstructors, built-in parameter resolvers and custom parameter resolvers to inject parameters.
+The [junit5-dependency-test-example] sample demonstrates the dependency injection for the test methods and constructors, built-in parameter resolvers and custom parameter resolvers to inject parameters.
 
 ## [17. Junit 5 @Tag and Filtering Tags with Examples](https://javabydeveloper.com/junit-5-tag-and-filtering-tags-with-examples/)
 The [junit5-tag-filter-example] sample demonstrates the tagging tests classes and methods filter or discovering tagged test to execute them.
 
 ## [18. Run tag-specific junit 5 tests from gradle command](https://javabydeveloper.com/run-tag-specific-junit-5-tests-from-gradle-command/)
-The [junit5-tag-filter-example] sample demonstrates the executing tag-specific test cases from gradle command line.
+The [junit5-tag-filter-example] sample demonstrates executing tag-specific test cases from gradle command line.
 
 ## [19. Junit 5 parallel tests execution and @ResourceLock examples](https://javabydeveloper.com/junit-5-parallel-tests-execution-and-resourcelock-examples/)
-The [junit5-parallel-tests-example] sample demonstrates the configuratuions to run test classes and test methods parllel and @ResourceLock annotation to get synchronazation access for the shared resources.
+The [junit5-parallel-tests-example] sample demonstrates the configurations to run test classes and test methods parallel and @ResourceLock annotation to get synchronization access for the shared resources.
 
 ## [20. Spring Boot Junit 5 test example](https://javabydeveloper.com/spring-boot-junit-5-test-example/)
-The [spring-boot-junit5-example] sample demonstrates the bare minimum configuration for getting started with JUnit Jupiter using the Maven build system and spring boot, simple tests for Rest controller.
+The [spring-boot-junit5-example] sample demonstrates the bare minimum configuration for configuration for getting started with JUnit Jupiter using the Maven build system and spring boot, simple tests for Rest controller.
 
 
 ## Licence
