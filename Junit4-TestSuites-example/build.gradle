@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+    id 'eclipse'
+}
+
+group 'com.javabydeveloper'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+test {
+    // do not use useJUnitPlatform() if running with platform-runner
+    // useJUnitPlatform()
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.6.0'
+    testImplementation 'org.junit.platform:junit-platform-runner:1.5.2'
+
+    testRuntime 'org.junit.platform:junit-platform-runner:1.5.2'
+}
