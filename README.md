@@ -6,10 +6,10 @@ JUnit 5 Tutorial, a collection of sample applications to write and execute Junit
 
 ## Examples
 
-## [1. Junit 5 Maven example](https://javabydeveloper.com/junit-5-maven-example/)
+## [1. Junit 5 Maven](https://javabydeveloper.com/junit-5-maven-example/)
 The [junit5-maven-example] sample demonstrates the bare minimum configuration for getting started with JUnit Jupiter using the Maven build system.
 
-## [2. Junit 5 with gradle example](https://javabydeveloper.com/junit-5-with-gradle-configuration-with-an-example/)
+## [2. Junit 5 with gradle](https://javabydeveloper.com/junit-5-with-gradle-configuration-with-an-example/)
 The [junit5-gradle-example] sample Demonstrates the display custom names for the tests, built-in creating custom Display name generator.
 
 ## [3. Junit 5 Dispaly names for tests](https://javabydeveloper.com/junit-5-dispaly-names-for-tests/)
@@ -18,10 +18,10 @@ The [junit5-displayNames-example] sample demonstrates the display custom names f
 ## [4. Junit 5 test instance lifecycle](https://javabydeveloper.com/junit-5-test-instance-lifecycle-with-examples/)
 The [junit5-instance-lifecycle-example] sample demonstrates the instance lifecycle of junit 5 test cases and the modes of test instance lifecycle.
 
-## [5. Junit 5 Assumptions class examples](https://javabydeveloper.com/junit-5-assumptions-examples/)
+## [5. Junit 5 Assumptions](https://javabydeveloper.com/junit-5-assumptions-examples/)
 The [junit5-assumptions-example] sample demonstrates the  Junit 5 assumptions class assumeTrue()/assumeFalse() and assumeThat() methods.
 
-## [6. Junit 5 Disable tests @Disabled examples](https://javabydeveloper.com/junit-5-disable-tests-disabled-examples/)
+## [6. Junit 5 Disable tests @Disabled](https://javabydeveloper.com/junit-5-disable-tests-disabled-examples/)
 The [junit5-disable-tests-example] sample demonstrates the how to disable tests using @Disabled annotation.
 
 ## [7. Junit 5 conditional test execution](https://javabydeveloper.com/junit-5-conditional-test-execution-with-examples/)
@@ -33,10 +33,10 @@ The [junit5-repeated-tests-example] sample demonstrates repeating tests executio
 ## [9. Junit 5 timeouts](https://javabydeveloper.com/junit-5-timeouts-fail-if-test-not-executed-within-time/)
 The [junit5-timeout-example] sample demonstrates Junit 5 timeout tests using @Timeout, assertTimeout(), assertTimeoutPreemptively() and configuring global timeouts
 
-## [10. Junit 5 test execution order with examples](https://javabydeveloper.com/junit-5-test-execution-order-with-examples/)
+## [10. Junit 5 test execution order](https://javabydeveloper.com/junit-5-test-execution-order-with-examples/)
 The [junit5-test-order-example] sample demonstrates Junit 5 tests execution order, @MethodOrder, @Order annotations AlphanUmeric order and creating custom order.
 
-## [11. Junit 5 Parameterized Tests with examples](https://javabydeveloper.com/junit-5-parameterized-tests-with-examples/)
+## [11. Junit 5 Parameterized Tests](https://javabydeveloper.com/junit-5-parameterized-tests-with-examples/)
 The [junit5-parameterized-tests-example] sample demonstrates the various argument sources to run parameterized tests, ArgumentsAccessor, Argument Aggregation examples.
 
 ## [12. Junit 5 ConsoleLauncher](https://javabydeveloper.com/junit-5-consolelauncher-options-examples/)
@@ -45,7 +45,7 @@ The [junit5-consolelauncher-example] sample demonstrates the ConsoleLauncher to 
 ## [13. Junit 5 with allure reports](https://javabydeveloper.com/junit-5-with-allure-reports-example/)
 The [junit5-allure-report-example] sample demonstrates Junit 5, allure, maven configuration and generating allure reports.
 
-## [14. Junit 5 dynamic tests @TestFactory with examples](https://javabydeveloper.com/junit-5-dynamic-tests-testfactory-with-examples/)
+## [14. Junit 5 dynamic tests @TestFactory](https://javabydeveloper.com/junit-5-dynamic-tests-testfactory-with-examples/)
 The [junit5-dynamic-tests-example] sample demonstrates the creating dynamic tests in Junit 5 and ordering and parallel execution of dynamic tests.
 
 ## [15. Junit 5 nested tests](https://javabydeveloper.com/junit-5-nested-tests-with-several-examples/)
